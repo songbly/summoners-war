@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var LIGHTNING_EMPEROR = {\n  FIRE_BALEYAR: {\n    HP: 10215,\n    ATK: 790,\n    DEF: 670,\n    SPD: 102,\n    CRI_RATE: 15,\n    CRI_DMG: 50\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

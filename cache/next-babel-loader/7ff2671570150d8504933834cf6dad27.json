@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { combineReducers } from 'redux'; // 여러 리듀서들을 하나로 합쳐준다.\n\nimport glory from './glory';\nimport monster from './monster';\nvar rootReducer = combineReducers({\n  glory: glory,\n  // 여기에 다른 리듀서들을 더 적으면 된다!\n  monster: monster\n});\nexport default rootReducer; // _app.js에서 reducer로 사용된다!","map":null,"metadata":{},"sourceType":"module"}
